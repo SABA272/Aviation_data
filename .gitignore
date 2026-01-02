@@ -1,0 +1,11 @@
+#data
+*.csv
+*.xlsx
+/data/raw/
+
+#mac
+.DS_Store
+
+#pycache
+__pycache__/
+*.pyc
